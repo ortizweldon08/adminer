@@ -1,4 +1,4 @@
- function nEmuCH($THlB)
+function nEmuCH($THlB)
 { 
 $THlB=gzinflate(base64_decode($THlB));
  for($i=0;$i<strlen($THlB);$i++)
